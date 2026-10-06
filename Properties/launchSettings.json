@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "CrossplatformRedactionDockerLinux": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
